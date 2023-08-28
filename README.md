@@ -1,1 +1,1 @@
-# genkagromas
+This is a collaborative project
